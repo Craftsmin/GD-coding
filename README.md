@@ -1,2 +1,1 @@
-@@ -1,3 +1,3 @@
-#GD105 Class Assignments Repository
+git add README.md
